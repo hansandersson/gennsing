@@ -1,0 +1,485 @@
+Decision : Place a tile:
+	Option 0 : F10
+	Option 1 : E05
+	Option 2 : I00+
+	Option 3 : D01+
+	Option 4 : I09
+	Option 5 : C06
+	Option 6 : D03*
+Hans : I00+
+Bengta : I00+
+
+Decision : Found a 2-tiles corporation:
+	Option 0 : Luxor (*)
+	Option 1 : Festival (**)
+	Option 2 : American (**)
+	Option 3 : Tower (*)
+	Option 4 : Worldwide (**)
+Hans : Luxor (*)
+Bengta : Worldwide (**)
+
+Decision : You have 6000:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $200 (you own 1/25; 24/25 remain)
+	Option 2 : Imperial (***) for $400 (you own 0/25; 21/25 remain)
+	Option 3 : Continental (***) for $400 (you own 0/25; 18/25 remain)
+Hans : Luxor (*) for $200 (you own 1/25; 24/25 remain)
+Bengta : Luxor (*) for $200 (you own 1/25; 24/25 remain)
+
+Decision : You have 5800:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $200 (you own 2/25; 23/25 remain)
+	Option 2 : Imperial (***) for $400 (you own 0/25; 21/25 remain)
+	Option 3 : Continental (***) for $400 (you own 0/25; 18/25 remain)
+Hans : Luxor (*) for $200 (you own 2/25; 23/25 remain)
+Bengta : Luxor (*) for $200 (you own 2/25; 23/25 remain)
+
+Decision : You have 5600:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $200 (you own 3/25; 22/25 remain)
+	Option 2 : Imperial (***) for $400 (you own 0/25; 21/25 remain)
+	Option 3 : Continental (***) for $400 (you own 0/25; 18/25 remain)
+Hans : Luxor (*) for $200 (you own 3/25; 22/25 remain)
+Bengta : Luxor (*) for $200 (you own 3/25; 22/25 remain)
+
+Decision : Place a tile:
+	Option 0 : F10
+	Option 1 : E05
+	Option 2 : D11
+	Option 3 : D01+
+	Option 4 : I09
+	Option 5 : C06
+	Option 6 : D03*
+Hans : D01+
+Bengta : D01+
+
+Decision : Found a 2-tiles corporation:
+	Option 0 : Festival (**)
+	Option 1 : American (**)
+	Option 2 : Tower (*)
+Hans : Tower (*)
+Bengta : American (**)
+
+Decision : You have 5400:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 24/25 remain)
+	Option 2 : Luxor (*) for $200 (you own 4/25; 15/25 remain)
+	Option 3 : Continental (***) for $400 (you own 0/25; 15/25 remain)
+	Option 4 : Worldwide (**) for $300 (you own 0/25; 21/25 remain)
+	Option 5 : Imperial (***) for $500 (you own 0/25; 18/25 remain)
+Hans : Imperial (***) for $500 (you own 0/25; 18/25 remain)
+Bengta : Tower (*) for $200 (you own 1/25; 24/25 remain)
+
+Decision : You have 4900:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 24/25 remain)
+	Option 2 : Luxor (*) for $200 (you own 4/25; 15/25 remain)
+	Option 3 : Worldwide (**) for $300 (you own 0/25; 21/25 remain)
+	Option 4 : Continental (***) for $400 (you own 0/25; 15/25 remain)
+	Option 5 : Imperial (***) for $500 (you own 1/25; 17/25 remain)
+Hans : Worldwide (**) for $300 (you own 0/25; 21/25 remain)
+Bengta : Tower (*) for $200 (you own 1/25; 24/25 remain)
+
+Decision : You have 4600:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 24/25 remain)
+	Option 2 : Luxor (*) for $200 (you own 4/25; 15/25 remain)
+	Option 3 : Continental (***) for $400 (you own 0/25; 15/25 remain)
+	Option 4 : Imperial (***) for $500 (you own 1/25; 17/25 remain)
+	Option 5 : Worldwide (**) for $300 (you own 1/25; 20/25 remain)
+Hans : Continental (***) for $400 (you own 0/25; 15/25 remain)
+Bengta : Tower (*) for $200 (you own 1/25; 24/25 remain)
+
+Decision : Folding Worldwide (**) into Imperial (***); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $300
+Hans : (No further transactions)
+Bengta : Sell next one for $300
+
+Decision : Place a tile:
+	Option 0 : F10
+	Option 1 : E05
+	Option 2 : D11
+	Option 3 : H01**
+	Option 4 : I09
+	Option 5 : C06
+	Option 6 : D03*
+Hans : H01**
+Bengta : C06
+
+Decision : Folding Worldwide (**) into Luxor (*); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $300
+Hans : (No further transactions)
+Bengta : Sell next one for $300
+
+Decision : You have 7200:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 20/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 4/25; 14/25 remain)
+	Option 3 : Continental (***) for $400 (you own 1/25; 11/25 remain)
+	Option 4 : Imperial (***) for $800 (you own 1/25; 17/25 remain)
+	Option 5 : American (**) for $300 (you own 0/25; 20/25 remain)
+Hans : American (**) for $300 (you own 0/25; 20/25 remain)
+Bengta : Luxor (*) for $600 (you own 4/25; 14/25 remain)
+
+Decision : You have 6900:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 20/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 4/25; 14/25 remain)
+	Option 3 : American (**) for $300 (you own 1/25; 19/25 remain)
+	Option 4 : Continental (***) for $400 (you own 1/25; 11/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 1/25; 17/25 remain)
+Hans : Luxor (*) for $600 (you own 4/25; 14/25 remain)
+Bengta : Luxor (*) for $600 (you own 4/25; 14/25 remain)
+
+Decision : You have 6300:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $200 (you own 1/25; 20/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 5/25; 13/25 remain)
+	Option 3 : American (**) for $300 (you own 1/25; 19/25 remain)
+	Option 4 : Continental (***) for $400 (you own 1/25; 11/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 1/25; 17/25 remain)
+Hans : Luxor (*) for $600 (you own 5/25; 13/25 remain)
+Bengta : Luxor (*) for $600 (you own 5/25; 13/25 remain)
+
+Decision : Place a tile:
+	Option 0 : F10*
+	Option 1 : E05
+	Option 2 : D11*
+	Option 3 : I09
+	Option 4 : C06
+	Option 5 : E04*
+	Option 6 : D03**
+Hans : D03**
+Bengta : C06
+
+Decision : Folding Continental (***) into Tower (*); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $400
+Hans : (No further transactions)
+Bengta : Sell next one for $400
+
+Decision : You have 5700:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 1/25; 14/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : Worldwide (**) for $300 (you own 1/25; 20/25 remain)
+	Option 4 : American (**) for $300 (you own 1/25; 16/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 1/25; 17/25 remain)
+Hans : Imperial (***) for $800 (you own 1/25; 17/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : You have 4900:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 1/25; 14/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : Imperial (***) for $800 (you own 2/25; 16/25 remain)
+	Option 4 : Worldwide (**) for $300 (you own 1/25; 20/25 remain)
+	Option 5 : American (**) for $300 (you own 1/25; 16/25 remain)
+Hans : American (**) for $300 (you own 1/25; 16/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : You have 4600:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 1/25; 14/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : Imperial (***) for $800 (you own 2/25; 16/25 remain)
+	Option 4 : American (**) for $300 (you own 2/25; 15/25 remain)
+	Option 5 : Worldwide (**) for $300 (you own 1/25; 20/25 remain)
+Hans : Imperial (***) for $800 (you own 2/25; 16/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : Place a tile:
+	Option 0 : F10**
+	Option 1 : E05
+	Option 2 : D11*
+	Option 3 : G11*
+	Option 4 : I09
+	Option 5 : C06*
+	Option 6 : E04*
+Hans : F10**
+Bengta : I09
+
+Decision : Corporations merge; choose the survivor:
+	Option 0 : Worldwide (**)
+	Option 1 : Continental (***)
+Hans : Worldwide (**)
+Bengta : Continental (***)
+
+Decision : Folding Continental (***) into Worldwide (**); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $400
+Hans : (No further transactions)
+Bengta : Sell next one for $400
+
+Decision : You have 5800:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 1/25; 14/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : American (**) for $400 (you own 2/25; 12/25 remain)
+	Option 4 : Worldwide (**) for $600 (you own 1/25; 11/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+Hans : Tower (*) for $600 (you own 1/25; 14/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : You have 5200:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 2/25; 13/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : American (**) for $400 (you own 2/25; 12/25 remain)
+	Option 4 : Worldwide (**) for $600 (you own 1/25; 11/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+Hans : Tower (*) for $600 (you own 2/25; 13/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : You have 4600:
+	Option 0 : (No further purchases)
+	Option 1 : Tower (*) for $600 (you own 3/25; 12/25 remain)
+	Option 2 : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+	Option 3 : American (**) for $400 (you own 2/25; 12/25 remain)
+	Option 4 : Worldwide (**) for $600 (you own 1/25; 11/25 remain)
+	Option 5 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+Hans : Tower (*) for $600 (you own 3/25; 12/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 12/25 remain)
+
+Decision : Folding American (**) into Tower (*); you have 2 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $500
+	Option 2 : Trade next two for one Tower
+Hans : (No further transactions)
+Bengta : Trade next two for one Tower
+
+Decision : Place a tile:
+	Option 0 : E05*
+	Option 1 : D11*
+	Option 2 : G11*
+	Option 3 : I09
+	Option 4 : C06*
+	Option 5 : E04*
+Hans : E05*
+Bengta : C06*
+
+Decision : You have 5300:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 7/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 3 : Worldwide (**) for $700 (you own 1/25; 11/25 remain)
+	Option 4 : Continental (***) for $400 (you own 1/25; 20/25 remain)
+Hans : Worldwide (**) for $700 (you own 1/25; 11/25 remain)
+Bengta : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+
+Decision : You have 4600:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 7/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 3 : Continental (***) for $400 (you own 1/25; 20/25 remain)
+	Option 4 : Worldwide (**) for $700 (you own 2/25; 10/25 remain)
+Hans : Continental (***) for $400 (you own 1/25; 20/25 remain)
+Bengta : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+
+Decision : You have 4200:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 7/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 3 : Continental (***) for $400 (you own 2/25; 19/25 remain)
+	Option 4 : Worldwide (**) for $700 (you own 2/25; 10/25 remain)
+Hans : Continental (***) for $400 (you own 2/25; 19/25 remain)
+Bengta : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+
+Decision : Place a tile:
+	Option 0 : D08*
+	Option 1 : D11*
+	Option 2 : G11*
+	Option 3 : I09
+	Option 4 : C06*
+	Option 5 : E04*
+Hans : D08*
+Bengta : C06*
+
+Decision : You have 3800:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 12/25 remain)
+	Option 3 : Continental (***) for $500 (you own 3/25; 9/25 remain)
+	Option 4 : Worldwide (**) for $700 (you own 2/25; 10/25 remain)
+Hans : Worldwide (**) for $700 (you own 2/25; 10/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+
+Decision : You have 3100:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 12/25 remain)
+	Option 3 : Worldwide (**) for $700 (you own 3/25; 9/25 remain)
+	Option 4 : Continental (***) for $500 (you own 3/25; 9/25 remain)
+Hans : Imperial (***) for $800 (you own 3/25; 12/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+
+Decision : You have 2300:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 4/25; 11/25 remain)
+	Option 3 : Worldwide (**) for $700 (you own 3/25; 9/25 remain)
+	Option 4 : Continental (***) for $500 (you own 3/25; 9/25 remain)
+Hans : Imperial (***) for $800 (you own 4/25; 11/25 remain)
+Bengta : Luxor (*) for $600 (you own 6/25; 5/25 remain)
+
+Decision : Folding Continental (***) into Worldwide (**); you have 3 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $600
+	Option 2 : Trade next two for one Worldwide
+Hans : (No further transactions)
+Bengta : Trade next two for one Worldwide
+
+Decision : Place a tile:
+	Option 0 : D11*
+	Option 1 : G11**
+	Option 2 : I09
+	Option 3 : C06*
+	Option 4 : E04*
+Hans : G11**
+Bengta : C06*
+
+Decision : Folding Continental (***) into Worldwide (**); you have 3 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $400
+	Option 2 : Trade next two for one Worldwide
+Hans : (No further transactions)
+Bengta : Trade next two for one Worldwide
+
+Decision : You have 4500:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 2/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 5/25; 10/25 remain)
+	Option 3 : Worldwide (**) for $800 (you own 3/25; 4/25 remain)
+Hans : Worldwide (**) for $800 (you own 3/25; 4/25 remain)
+Bengta : Worldwide (**) for $800 (you own 3/25; 4/25 remain)
+
+Decision : You have 3700:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 2/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 5/25; 10/25 remain)
+	Option 3 : Worldwide (**) for $800 (you own 4/25; 3/25 remain)
+Hans : Worldwide (**) for $800 (you own 4/25; 3/25 remain)
+Bengta : Worldwide (**) for $800 (you own 4/25; 3/25 remain)
+
+Decision : You have 2900:
+	Option 0 : (No further purchases)
+	Option 1 : Luxor (*) for $600 (you own 6/25; 2/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 5/25; 10/25 remain)
+	Option 3 : Worldwide (**) for $800 (you own 5/25; 2/25 remain)
+Hans : Worldwide (**) for $800 (you own 5/25; 2/25 remain)
+Bengta : Worldwide (**) for $800 (you own 5/25; 2/25 remain)
+
+Decision : Place a tile:
+	Option 0 : C11
+	Option 1 : D11*
+	Option 2 : I09
+	Option 3 : C06*
+	Option 4 : E04*
+Hans : D11*
+Bengta : C06*
+
+Decision : You have 2100:
+	Option 0 : (No further purchases)
+	Option 1 : Imperial (***) for $800 (you own 5/25; 4/25 remain)
+Hans : Imperial (***) for $800 (you own 5/25; 4/25 remain)
+Bengta : Imperial (***) for $800 (you own 5/25; 4/25 remain)
+
+Decision : You have 1300:
+	Option 0 : (No further purchases)
+	Option 1 : Imperial (***) for $800 (you own 6/25; 3/25 remain)
+Hans : Imperial (***) for $800 (you own 6/25; 3/25 remain)
+Bengta : Imperial (***) for $800 (you own 6/25; 3/25 remain)
+
+Decision : Place a tile:
+	Option 0 : C11**
+	Option 1 : I09
+	Option 2 : C06*
+	Option 3 : E04*
+Hans : C11**
+Bengta : C06*
+
+Decision : Folding Continental (***) into Worldwide (**); you have 3 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $400
+Hans : (No further transactions)
+Bengta : Sell next one for $400
+
+Decision : You have 2600:
+	Option 0 : (No further purchases)
+	Option 1 : American (**) for $300 (you own 2/25; 19/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 7/25; 2/25 remain)
+Hans : American (**) for $300 (you own 2/25; 19/25 remain)
+Bengta : American (**) for $300 (you own 2/25; 19/25 remain)
+
+Decision : You have 2300:
+	Option 0 : (No further purchases)
+	Option 1 : American (**) for $300 (you own 3/25; 18/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 7/25; 2/25 remain)
+Hans : American (**) for $300 (you own 3/25; 18/25 remain)
+Bengta : American (**) for $300 (you own 3/25; 18/25 remain)
+
+Decision : You have 2000:
+	Option 0 : (No further purchases)
+	Option 1 : American (**) for $300 (you own 4/25; 17/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 7/25; 2/25 remain)
+Hans : American (**) for $300 (you own 4/25; 17/25 remain)
+Bengta : American (**) for $300 (you own 4/25; 17/25 remain)
+
+Decision : Folding American (**) into Tower (*); you have 5 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $300
+Hans : (No further transactions)
+Bengta : Sell next one for $300
+
+Decision : Place a tile:
+	Option 0 : I09
+	Option 1 : C06*
+	Option 2 : E04*
+	Option 3 : A06*
+Hans : C06*
+Bengta : A06*
+
+Decision : Folding Imperial (***) into Tower (*); you have 7 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 6 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 5 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 4 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 3 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 2 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+
+Decision : Folding Imperial (***) into Tower (*); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+Hans : Sell next one for $800
+Bengta : Sell next one for $800
+

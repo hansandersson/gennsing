@@ -1,0 +1,450 @@
+Decision : Place a tile:
+	Option 0 : G02
+	Option 1 : H09
+	Option 2 : D11
+	Option 3 : H08
+	Option 4 : D05
+	Option 5 : H03
+	Option 6 : G07
+Hans : G02
+Belinda : H03
+
+Decision : Place a tile:
+	Option 0 : H09
+	Option 1 : D11
+	Option 2 : H08
+	Option 3 : D05
+	Option 4 : H03
+	Option 5 : G07
+	Option 6 : B11*
+Hans : B11*
+Belinda : H03
+
+Decision : You have 6000:
+	Option 0 : (No further purchases)
+	Option 1 : Continental (***) for $400 (you own 0/25; 22/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+Hans : Continental (***) for $400 (you own 0/25; 22/25 remain)
+Belinda : Continental (***) for $400 (you own 0/25; 22/25 remain)
+
+Decision : You have 5600:
+	Option 0 : (No further purchases)
+	Option 1 : Continental (***) for $400 (you own 1/25; 21/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+Hans : Continental (***) for $400 (you own 1/25; 21/25 remain)
+Belinda : Continental (***) for $400 (you own 1/25; 21/25 remain)
+
+Decision : You have 5200:
+	Option 0 : (No further purchases)
+	Option 1 : Continental (***) for $400 (you own 2/25; 20/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+Hans : Continental (***) for $400 (you own 2/25; 20/25 remain)
+Belinda : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+
+Decision : Place a tile:
+	Option 0 : H09
+	Option 1 : D11
+	Option 2 : H08
+	Option 3 : D05
+	Option 4 : H03
+	Option 5 : G07
+	Option 6 : I07
+Hans : H09
+Belinda : I07
+
+Decision : You have 4800:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 0/25; 18/25 remain)
+	Option 2 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+	Option 3 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+Hans : Worldwide (**) for $300 (you own 0/25; 18/25 remain)
+Belinda : Worldwide (**) for $300 (you own 0/25; 18/25 remain)
+
+Decision : You have 4500:
+	Option 0 : (No further purchases)
+	Option 1 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+	Option 2 : Worldwide (**) for $300 (you own 1/25; 17/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+Hans : Worldwide (**) for $300 (you own 1/25; 17/25 remain)
+Belinda : Worldwide (**) for $300 (you own 1/25; 17/25 remain)
+
+Decision : You have 4200:
+	Option 0 : (No further purchases)
+	Option 1 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+	Option 2 : Worldwide (**) for $300 (you own 2/25; 16/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+Hans : Worldwide (**) for $300 (you own 2/25; 16/25 remain)
+Belinda : Worldwide (**) for $300 (you own 2/25; 16/25 remain)
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : H08*
+	Option 2 : D10
+	Option 3 : D05
+	Option 4 : H03
+	Option 5 : G07
+	Option 6 : I07
+Hans : H08*
+Belinda : I07
+
+Decision : You have 3900:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 15/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+	Option 4 : Festival (**) for $400 (you own 0/25; 18/25 remain)
+Hans : Festival (**) for $400 (you own 0/25; 18/25 remain)
+Belinda : Festival (**) for $400 (you own 0/25; 18/25 remain)
+
+Decision : You have 3500:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 15/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+	Option 3 : Festival (**) for $400 (you own 1/25; 17/25 remain)
+	Option 4 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+Hans : Imperial (***) for $500 (you own 0/25; 20/25 remain)
+Belinda : Festival (**) for $400 (you own 1/25; 17/25 remain)
+
+Decision : You have 3000:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 15/25 remain)
+	Option 2 : Imperial (***) for $500 (you own 1/25; 19/25 remain)
+	Option 3 : Festival (**) for $400 (you own 1/25; 17/25 remain)
+	Option 4 : Continental (***) for $400 (you own 3/25; 19/25 remain)
+Hans : Imperial (***) for $500 (you own 1/25; 19/25 remain)
+Belinda : Festival (**) for $400 (you own 1/25; 17/25 remain)
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : A09*
+	Option 2 : D10
+	Option 3 : D05
+	Option 4 : H03
+	Option 5 : G07
+	Option 6 : I07
+Hans : A09*
+Belinda : A09*
+
+Decision : You have 2500:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 2 : Imperial (***) for $700 (you own 2/25; 16/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 4 : Festival (**) for $400 (you own 1/25; 15/25 remain)
+Hans : Festival (**) for $400 (you own 1/25; 15/25 remain)
+Belinda : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+
+Decision : You have 2100:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 2 : Imperial (***) for $700 (you own 2/25; 16/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 4 : Festival (**) for $400 (you own 2/25; 14/25 remain)
+Hans : Festival (**) for $400 (you own 2/25; 14/25 remain)
+Belinda : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+
+Decision : You have 1700:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 2 : Imperial (***) for $700 (you own 2/25; 16/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 4 : Festival (**) for $400 (you own 3/25; 13/25 remain)
+Hans : Imperial (***) for $700 (you own 2/25; 16/25 remain)
+Belinda : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+
+Decision : Place a tile:
+	Option 0 : A11*
+	Option 1 : D11
+	Option 2 : D10
+	Option 3 : D05
+	Option 4 : H03
+	Option 5 : G07
+	Option 6 : I07
+Hans : A11*
+Belinda : A11*
+
+Decision : You have 1000:
+	Option 0 : (No further purchases)
+	Option 1 : Festival (**) for $400 (you own 3/25; 13/25 remain)
+	Option 2 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 3 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 4 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 5 : American (**) for $300 (you own 0/25; 18/25 remain)
+Hans : American (**) for $300 (you own 0/25; 18/25 remain)
+Belinda : American (**) for $300 (you own 0/25; 18/25 remain)
+
+Decision : You have 700:
+	Option 0 : (No further purchases)
+	Option 1 : American (**) for $300 (you own 1/25; 17/25 remain)
+	Option 2 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 4 : Festival (**) for $400 (you own 3/25; 13/25 remain)
+Hans : American (**) for $300 (you own 1/25; 17/25 remain)
+Belinda : American (**) for $300 (you own 1/25; 17/25 remain)
+
+Decision : You have 400:
+	Option 0 : (No further purchases)
+	Option 1 : American (**) for $300 (you own 2/25; 16/25 remain)
+	Option 2 : Worldwide (**) for $300 (you own 3/25; 14/25 remain)
+	Option 3 : Continental (***) for $400 (you own 3/25; 18/25 remain)
+	Option 4 : Festival (**) for $400 (you own 3/25; 13/25 remain)
+Hans : American (**) for $300 (you own 2/25; 16/25 remain)
+Belinda : American (**) for $300 (you own 2/25; 16/25 remain)
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : D10
+	Option 2 : D05*
+	Option 3 : H03
+	Option 4 : G07
+	Option 5 : H04*
+	Option 6 : I07
+Hans : H04*
+Belinda : H04*
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : D10
+	Option 2 : D05*
+	Option 3 : G06
+	Option 4 : H03*
+	Option 5 : G07
+	Option 6 : I07
+Hans : D05*
+Belinda : D05*
+
+Decision : Place a tile:
+	Option 0 : H06
+	Option 1 : D11
+	Option 2 : D10
+	Option 3 : G06
+	Option 4 : H03*
+	Option 5 : G07
+	Option 6 : I07
+Hans : H03*
+Belinda : H03*
+
+Decision : Place a tile:
+	Option 0 : H06
+	Option 1 : D11
+	Option 2 : D10
+	Option 3 : F11
+	Option 4 : G06+
+	Option 5 : G07
+	Option 6 : I07
+Hans : G06+
+Belinda : G06+
+
+Decision : Found a 2-tiles corporation:
+	Option 0 : Tower (*)
+	Option 1 : Luxor (*)
+Hans : Tower (*)
+Belinda : Luxor (*)
+
+Decision : Place a tile:
+	Option 0 : H06*
+	Option 1 : D11
+	Option 2 : D10
+	Option 3 : F11
+	Option 4 : G07*
+	Option 5 : I07
+Hans : H06*
+Belinda : H06*
+
+Decision : Place a tile:
+	Option 0 : E01*
+	Option 1 : D11
+	Option 2 : D10
+	Option 3 : F11
+	Option 4 : G07*
+	Option 5 : I07
+Hans : E01*
+Belinda : G07*
+
+Decision : Place a tile:
+	Option 0 : E08
+	Option 1 : D11
+	Option 2 : F11
+	Option 3 : G07*
+	Option 4 : I07
+Hans : G07*
+Belinda : G07*
+
+Decision : Place a tile:
+	Option 0 : E08
+	Option 1 : D11
+	Option 2 : F11
+	Option 3 : I07
+Hans : E08
+Belinda : I07
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : B09*
+	Option 2 : I07
+Hans : B09*
+Belinda : B09*
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : A06*
+	Option 2 : I07
+Hans : A06*
+Belinda : A06*
+
+Decision : Place a tile:
+	Option 0 : D11
+	Option 1 : I07
+Hans : D11
+Belinda : I07
+
+Decision : Place a tile:
+	Option 0 : B00
+	Option 1 : I07
+Hans : B00
+Belinda : I07
+
+Decision : Place a tile:
+	Option 0 : E05*
+	Option 1 : H07**
+	Option 2 : D10+
+	Option 3 : F11+
+	Option 4 : E03*
+	Option 5 : D02*
+	Option 6 : I07
+Hans : H07**
+Belinda : E03*
+
+Decision : Corporations merge; choose the survivor:
+	Option 0 : Tower (*)
+	Option 1 : Festival (**)
+Hans : Festival (**)
+Belinda : Festival (**)
+
+Decision : Folding Tower (*) into Festival (**); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $500
+Hans : Sell next one for $500
+Belinda : Sell next one for $500
+
+Decision : You have 3100:
+	Option 0 : (No further purchases)
+	Option 1 : Festival (**) for $800 (you own 3/25; 13/25 remain)
+	Option 2 : Worldwide (**) for $700 (you own 3/25; 12/25 remain)
+	Option 3 : Continental (***) for $800 (you own 3/25; 17/25 remain)
+	Option 4 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 5 : American (**) for $700 (you own 3/25; 14/25 remain)
+Hans : Festival (**) for $800 (you own 3/25; 13/25 remain)
+Belinda : American (**) for $700 (you own 3/25; 14/25 remain)
+
+Decision : You have 2300:
+	Option 0 : (No further purchases)
+	Option 1 : Festival (**) for $800 (you own 4/25; 12/25 remain)
+	Option 2 : Worldwide (**) for $700 (you own 3/25; 12/25 remain)
+	Option 3 : Continental (***) for $800 (you own 3/25; 17/25 remain)
+	Option 4 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 5 : American (**) for $700 (you own 3/25; 14/25 remain)
+Hans : Worldwide (**) for $700 (you own 3/25; 12/25 remain)
+Belinda : American (**) for $700 (you own 3/25; 14/25 remain)
+
+Decision : You have 1600:
+	Option 0 : (No further purchases)
+	Option 1 : Festival (**) for $800 (you own 4/25; 12/25 remain)
+	Option 2 : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+	Option 3 : Continental (***) for $800 (you own 3/25; 17/25 remain)
+	Option 4 : Imperial (***) for $800 (you own 3/25; 15/25 remain)
+	Option 5 : American (**) for $700 (you own 3/25; 14/25 remain)
+Hans : Continental (***) for $800 (you own 3/25; 17/25 remain)
+Belinda : American (**) for $700 (you own 3/25; 14/25 remain)
+
+Decision : Place a tile:
+	Option 0 : E05**
+	Option 1 : D10*
+	Option 2 : F11+
+	Option 3 : E03*
+	Option 4 : B07*
+	Option 5 : D02*
+	Option 6 : I07*
+Hans : E05**
+Belinda : E03*
+
+Decision : Folding American (**) into Continental (***); you have 3 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $700
+	Option 2 : Trade next two for one Continental
+Hans : Trade next two for one Continental
+Belinda : Sell next one for $700
+
+Decision : Folding American (**) into Continental (***); you have 1 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $700
+Hans : Sell next one for $700
+Belinda : Sell next one for $700
+
+Decision : You have 1500:
+	Option 0 : (No further purchases)
+	Option 1 : Festival (**) for $800 (you own 4/25; 12/25 remain)
+	Option 2 : Imperial (***) for $800 (you own 3/25; 13/25 remain)
+	Option 3 : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+	Option 4 : Continental (***) for $1000 (you own 5/25; 15/25 remain)
+Hans : Imperial (***) for $800 (you own 3/25; 13/25 remain)
+Belinda : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+
+Decision : You have 700:
+	Option 0 : (No further purchases)
+	Option 1 : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+Hans : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+Belinda : Worldwide (**) for $700 (you own 4/25; 11/25 remain)
+
+Decision : Place a tile:
+	Option 0 : C10*
+	Option 1 : D10*
+	Option 2 : F11*
+	Option 3 : E03*
+	Option 4 : B07*
+	Option 5 : D02*
+	Option 6 : I07*
+Hans : C10*
+Belinda : E03*
+
+Decision : Place a tile:
+	Option 0 : I10*
+	Option 1 : F11*
+	Option 2 : B07*
+	Option 3 : E03*
+	Option 4 : D10**
+	Option 5 : D02*
+	Option 6 : I07*
+Hans : D10**
+Belinda : E03*
+
+Decision : Folding Imperial (***) into Festival (**); you have 4 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+	Option 2 : Trade next two for one Festival
+Hans : Trade next two for one Festival
+Belinda : Sell next one for $800
+
+Decision : Folding Imperial (***) into Festival (**); you have 2 certificates in the defunct corporation:
+	Option 0 : (No further transactions)
+	Option 1 : Sell next one for $800
+	Option 2 : Trade next two for one Festival
+Hans : Trade next two for one Festival
+Belinda : Sell next one for $800
+
+Decision : You have 2000:
+	Option 0 : (No further purchases)
+	Option 1 : Continental (***) for $1000 (you own 5/25; 15/25 remain)
+	Option 2 : Worldwide (**) for $800 (you own 5/25; 8/25 remain)
+	Option 3 : Festival (**) for $900 (you own 6/25; 7/25 remain)
+Hans : Continental (***) for $1000 (you own 5/25; 15/25 remain)
+Belinda : Worldwide (**) for $800 (you own 5/25; 8/25 remain)
+
+Decision : You have 1000:
+	Option 0 : (No further purchases)
+	Option 1 : Continental (***) for $1000 (you own 6/25; 14/25 remain)
+	Option 2 : Worldwide (**) for $800 (you own 5/25; 8/25 remain)
+	Option 3 : Festival (**) for $900 (you own 6/25; 7/25 remain)
+Hans : Worldwide (**) for $800 (you own 5/25; 8/25 remain)
+Belinda : Worldwide (**) for $800 (you own 5/25; 8/25 remain)
+

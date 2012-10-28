@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GeNNSinG.py">
+   </FileRef>
+   <FileRef
+      location = "group:NeuralNetwork.py">
+   </FileRef>
+   <FileRef
+      location = "group:Decision.py">
+   </FileRef>
+   <FileRef
+      location = "group:Interface.py">
+   </FileRef>
+   <FileRef
+      location = "group:GeneticArena.py">
+   </FileRef>
+   <Group
+      location = "group:Gypsy"
+      name = "Gypsy">
+      <FileRef
+         location = "group:Environment.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Nickel"
+      name = "Nickel">
+      <FileRef
+         location = "group:Environment.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Acquire"
+      name = "Acquire">
+      <FileRef
+         location = "group:Environment.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Polity">
+      <FileRef
+         location = "group:Polity/Environment.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Cosmica">
+      <FileRef
+         location = "group:Cosmica/Cosmica.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:StockMarket"
+      name = "StockMarket">
+      <FileRef
+         location = "group:Environment.py">
+      </FileRef>
+   </Group>
+</Workspace>
